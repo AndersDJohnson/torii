@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "connect-redirection": "0.0.1",
-    "grunt": "~0.4.2",
+    "grunt": "~1.6.3",
     "grunt-banner": "^0.2.3",
     "grunt-cli": "~0.1.11",
     "grunt-contrib-clean": "~0.6.0",
